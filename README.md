@@ -1,11 +1,13 @@
-Tugas Akhir - Web Automation with webdriver.io (wdio) and Cucumber ( Muhammad Echsan Putra )
+Tugas Akhir - Web Automation with WebDriver.io (wdio) and Cucumber ( Muhammad Echsan Putra )
 
-Description :
+Description : Tugas akhir menggunakan webdriver.io dengan page object model (POM) dan Cucumber
 
-Test case :
-- User success login
-- Success add user
-- Unsuccessfully add user with empty name, email and password
+Test Scenario :
+1. Kasir Aja Login
+   - Succes login user
+2. Add User
+   - Success add user
+   - Unsuccessfully add user with empty name, email and password
 
 Test scenario dan test step : 
 https://docs.google.com/spreadsheets/d/1zxO7ivvJuzls814k6zYGtYd_TeE0VD0ptoY13yJxEVQ/edit#gid=0
