@@ -9,7 +9,7 @@ Test Scenario :
    - Success add user
    - Unsuccessfully add user with empty name, email and password
 
-Test scenario dan test step : 
+Test scenario dan test step :
 https://docs.google.com/spreadsheets/d/1zxO7ivvJuzls814k6zYGtYd_TeE0VD0ptoY13yJxEVQ/edit#gid=0
 
 Recording :
